@@ -54,7 +54,7 @@
 *   iOS UIAutomation腾讯讲堂视频[链接](https://ke.qq.com/user/tasks/index.html?cid=138216#tid=100155510&fr=2)
 *   淘宝：接口测试白皮书[链接](http://www.ltesting.net/uploads/soft/testing_ziliao/testing_tutorial/Interface%20Test.pdf)
 *   TestNG官方文档[链接](http://testng.org/doc/documentation-main.html)
-*   [链接]()
+*   对 Jenkins+ANT+Jmeter 接口测试的实践[链接](https://testerhome.com/topics/5262)
 *   [链接]()
 *   [链接]()
 *   [链接]()
