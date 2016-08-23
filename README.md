@@ -52,7 +52,7 @@
 *   安卓(Android)Activity启动过程性能剖视(1)[链接](http://www.rudy-yuan.net/archives/59/)
 *   Appium VS Calabash[链接](http://elgris.github.io/blog/2_appium_vs_calabash/)
 *   iOS UIAutomation腾讯讲堂视频[链接](https://ke.qq.com/user/tasks/index.html?cid=138216#tid=100155510&fr=2)
-*   [链接]()
+*   淘宝：接口测试白皮书[链接](http://www.ltesting.net/uploads/soft/testing_ziliao/testing_tutorial/Interface%20Test.pdf)
 *   [链接]()
 *   [链接]()
 *   [链接]()
