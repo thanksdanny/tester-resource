@@ -55,7 +55,7 @@
 *   淘宝：接口测试白皮书[链接](http://www.ltesting.net/uploads/soft/testing_ziliao/testing_tutorial/Interface%20Test.pdf)
 *   TestNG官方文档[链接](http://testng.org/doc/documentation-main.html)
 *   对 Jenkins+ANT+Jmeter 接口测试的实践[链接](https://testerhome.com/topics/5262)
-*   [链接]()
+*   Web、PC客户端和移动端APP设计自检[链接](http://www.woshipm.com/pd/301795.html/comment-page-1)
 *   [链接]()
 *   [链接]()
 *   [链接]()
