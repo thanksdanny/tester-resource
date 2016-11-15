@@ -58,7 +58,7 @@
 *   Web、PC客户端和移动端APP设计自检[链接](http://www.woshipm.com/pd/301795.html/comment-page-1)
 *   TestNG 教程[链接](http://www.yiibai.com/testng/)
 *   APP接口自动化测试JAVA+TestNG(二)之TestNG简介与基础实例[链接](http://www.cnblogs.com/findyou/p/5317156.html)
-*   [链接]()
+*   应用宝基于Robotium自动化测试[链接](http://tmq.qq.com/2016/05/robotium_for_app_test/)
 *   [链接]()
 *   [链接]()
 *   [链接]()
