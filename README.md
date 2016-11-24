@@ -59,7 +59,7 @@
 *   TestNG 教程[链接](http://www.yiibai.com/testng/)
 *   APP接口自动化测试JAVA+TestNG(二)之TestNG简介与基础实例[链接](http://www.cnblogs.com/findyou/p/5317156.html)
 *   应用宝基于Robotium自动化测试[链接](http://tmq.qq.com/2016/05/robotium_for_app_test/)
-*   [链接]()
+*   优秀的接口测试框架rest-assured[链接](http://github.com/thanksdanny/rest-assured)
 *   [链接]()
 *   [链接]()
 *   [链接]()
