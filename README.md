@@ -61,7 +61,7 @@
 *   应用宝基于Robotium自动化测试[链接](http://tmq.qq.com/2016/05/robotium_for_app_test/)
 *   优秀的接口测试框架rest-assured[链接](http://github.com/thanksdanny/rest-assured)
 *   Unittest实现H5页面接口功能测试[链接](http://tmq.qq.com/2016/07/h5interfacetestwithunittest/)
-*   [链接]()
+*   Macaca-Java 版入门指南[链接](https://testerhome.com/topics/6431)
 *   [链接]()
 *   [链接]()
 *   [链接]()
