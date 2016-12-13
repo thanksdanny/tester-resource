@@ -62,7 +62,7 @@
 *   优秀的接口测试框架rest-assured[链接](http://github.com/thanksdanny/rest-assured)
 *   Unittest实现H5页面接口功能测试[链接](http://tmq.qq.com/2016/07/h5interfacetestwithunittest/)
 *   Macaca-Java 版入门指南[链接](https://testerhome.com/topics/6431)
-*   [链接]()
+*   360 测试之美大会 ppt 完整版[链接](https://testerhome.com/topics/6653)
 *   [链接]()
 *   [链接]()
 *   [链接]()
