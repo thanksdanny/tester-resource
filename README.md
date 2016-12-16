@@ -66,7 +66,7 @@
 *   JSON入门指南[链接](http://www.cnblogs.com/hyddd/archive/2009/06/15/1503914.html)
 *   服务端技术选型[链接](http://xielong.me/2015/04/17/服务端技术选型/)
 *   IntelliJ--Getting Started with Maven[链接](https://www.jetbrains.com/help/idea/2016.3/getting-started-with-maven.html)
-*   [链接]()
+*   接口测试 Postman 使用小结[链接](https://testerhome.com/topics/6695#reply3)
 *   [链接]()
 *   [链接]()
 *   [链接]()
