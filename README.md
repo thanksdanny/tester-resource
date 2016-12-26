@@ -72,7 +72,7 @@
 *   Crash之防测漏篇[链接](http://mp.weixin.qq.com/s/93PPl5pauPnDBncrO1jgaw)
 *   接口测试的测试用例类型[链接](http://blog.sina.com.cn/s/blog_e745d18d0102vkrq.html)
 *   ExtentReports 测试报告框架简单总结介绍[链接](https://testerhome.com/topics/6851#reply2)
-*   [链接]()
+*   Postman 做接口自动化测试-1. 入门篇[链接](https://testerhome.com/topics/6555)
 *   [链接]()
 *   [链接]()
 *   [链接]()
