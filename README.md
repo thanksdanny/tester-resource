@@ -75,7 +75,7 @@
 *   Postman 做接口自动化测试-1. 入门篇[链接](https://testerhome.com/topics/6555)
 *   HTTP cookies 详解[链接](http://bubkoo.com/2014/04/21/http-cookies-explained/)
 *   互联网新人如何入门和掌握 Java 开发 [链接](https://zhuanlan.zhihu.com/p/21371311)
-*   [链接]()
+*   [转] selenium webdriver 的工作原理[链接](https://testerhome.com/topics/6524)
 *   [链接]()
 *   [链接]()
 *   [链接]()
