@@ -1,4 +1,4 @@
-#测试资源整理
+#试资源整理
 
 在 GitHub 上有各种系列的资源整理库，去帮助大家快速方便地查询该技术的相关资料。但测试方面的资料整理寥寥无几，或许也只是我没发现，于是某天晚上就突发奇想搞了这样一个资料整理库，把各种资源整理起来，也当时给自己做个总结归类。
 
@@ -76,7 +76,7 @@
 *   HTTP cookies 详解[链接](http://bubkoo.com/2014/04/21/http-cookies-explained/)
 *   互联网新人如何入门和掌握 Java 开发 [链接](https://zhuanlan.zhihu.com/p/21371311)
 *   [转] selenium webdriver 的工作原理[链接](https://testerhome.com/topics/6524)
-*   [链接]()
+*   jsoup Cookbook(中文版)[链接](http://www.open-open.com/jsoup/)
 *   [链接]()
 *   [链接]()
 *   [链接]()
