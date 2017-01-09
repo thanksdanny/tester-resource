@@ -77,7 +77,7 @@
 *   互联网新人如何入门和掌握 Java 开发 [链接](https://zhuanlan.zhihu.com/p/21371311)
 *   [转] selenium webdriver 的工作原理[链接](https://testerhome.com/topics/6524)
 *   jsoup Cookbook(中文版)[链接](http://www.open-open.com/jsoup/)
-*   [链接]()
+*   基于 Kafka 和 ElasticSearch，LinkedIn是如何构建实时日志分析系统的？[链接](http://mp.weixin.qq.com/s/4dkaOWtEw-weLBI73A0JzQ)
 *   [链接]()
 *   [链接]()
 *   [链接]()
