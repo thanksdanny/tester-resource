@@ -78,7 +78,7 @@
 *   [转] selenium webdriver 的工作原理[链接](https://testerhome.com/topics/6524)
 *   jsoup Cookbook(中文版)[链接](http://www.open-open.com/jsoup/)
 *   基于 Kafka 和 ElasticSearch，LinkedIn是如何构建实时日志分析系统的？[链接](http://mp.weixin.qq.com/s/4dkaOWtEw-weLBI73A0JzQ)
-*   [链接]()
+*   iOS Crash 杀手排名[链接](http://www.jianshu.com/p/c7efbc283480?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&from=timeline&isappinstalled=0)
 *   [链接]()
 *   [链接]()
 *   [链接]()
