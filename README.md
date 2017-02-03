@@ -64,14 +64,17 @@
 *   [转] selenium webdriver 的工作原理[链接](https://testerhome.com/topics/6524)
 *   jsoup Cookbook(中文版)[链接](http://www.open-open.com/jsoup/)
 
+***
 
 # 测试用例
 *   接口测试的测试用例类型[链接](http://blog.sina.com.cn/s/blog_e745d18d0102vkrq.html)
 
+***
 
 # UI自动化测试框架
 *   Appium[官网](http://appium.io)
 
+***
 
 # 接口测试
 *   Postman文档[官网](https://www.getpostman.com/docs/)
@@ -86,15 +89,18 @@
 *   对 Jenkins+ANT+Jmeter 接口测试的实践[链接](https://testerhome.com/topics/5262)
 *   APP接口自动化测试JAVA+TestNG(二)之TestNG简介与基础实例[链接](http://www.cnblogs.com/findyou/p/5317156.html)
 
+***
+
 # 持续集成
 *   Newman[官网](https://github.com/postmanlabs/newman)
 
 *   Python Testing[官网](http://pythontesting.net/start-here/)
 *   Nose:is nicer testing for python[官网](https://nose.readthedocs.io/en/latest/)
 *   Unirest for Python:a set of lightweight HTTP libraries available in multiple languages[官网](http://unirest.io/python.html)
-*   Android:Getting Started with Testing[官网](https://developer.android.com/training/testing/start/index.html)
 *   Jenkins+Github+Testflight在Mac下搭建持续集成环境（貌似有解决证书问题）[链接](http://www.itiger.me/?p=30)
 *   持续集成学习笔记－入门篇（1）持续集成基本概念 [链接](http://blog.csdn.net/leijiantian/article/details/7916483)
+
+***
 
 # iOS
 *   iOS Crash 杀手排名[链接](http://www.jianshu.com/p/c7efbc283480?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&from=timeline&isappinstalled=0)
@@ -104,19 +110,30 @@
 *   testly:iOS 性能专项初探[链接](https://testerhome.com/topics/2719)
 *   芈君:豆瓣ios自动化测试实践和经验[链接](http://wenku.baidu.com/view/a513c2779b6648d7c1c746d3.html)
 
+***
+
 # Android
+*   Android:Getting Started with Testing[官网](https://developer.android.com/training/testing/start/index.html)
+
+***
 
 # Java
 *   互联网新人如何入门和掌握 Java 开发 [链接](https://zhuanlan.zhihu.com/p/21371311)
-*  TestNG 教程[链接](http://www.yiibai.com/testng/)
-*  TestNG官方文档[链接](http://testng.org/doc/documentation-main.html)
+*   TestNG 教程[链接](http://www.yiibai.com/testng/)
+*   TestNG官方文档[链接](http://testng.org/doc/documentation-main.html)
+
+***
 
 # 服务器端
-*  服务端技术选型[链接](http://xielong.me/2015/04/17/服务端技术选型/)
+*   服务端技术选型[链接](http://xielong.me/2015/04/17/服务端技术选型/)
+
+***
 
 # Linux
 *   快乐的 Linux 命令行[链接](http://billie66.github.io/TLCL/index.html)
 *   
+
+***
 
 # 质量监控
 *   基于 Kafka 和 ElasticSearch，LinkedIn是如何构建实时日志分析系统的？[链接](http://mp.weixin.qq.com/s/4dkaOWtEw-weLBI73A0JzQ)
@@ -126,8 +143,12 @@
 # 单元测试
 
 
+***
+
 # 教学视频
 
+
+***
 
 # 推荐博客
 
@@ -137,8 +158,8 @@
 *   Monkey[博客](http://blog.sina.com.cn/u/1881320895)
 *   阮一峰的网络日志[博客](http://www.ruanyifeng.com/blog/)
 
-
 ***
+
 # 大厂质量相关网站
 *   百度QA[官网](http://qa.baidu.com)
 *   腾讯移动品质中心TMQ[官网](http://tmq.qq.com)
