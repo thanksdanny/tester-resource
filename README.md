@@ -39,7 +39,7 @@
 *   Testing with Xcode文档（中文版）[链接](http://www.cocoachina.com/ios/20140815/9389.html)
 
 
-](http://wenku.baidu.com/view/a513c2779b6648d7c1c746d3.html)
+
 *   陈皓:让我们来谈谈分工[链接](http://coolshell.cn/articles/17295.html?from=timeline&isappinstalled=0)
 *   安卓(Android)Activity启动过程性能剖视(1)[链接](http://www.rudy-yuan.net/archives/59/)
 
@@ -102,8 +102,8 @@
 *   iOS Crash 分析[链接](http://prolove10.blog.163.com/blog/static/1384118432013516111354774)
 *   lzwjava：单元测试与自动化[链接](http://reviewcode.cn/video.html?videoId=2)
 *   testly:iOS 性能专项初探[链接](https://testerhome.com/topics/2719)
+*   芈君:豆瓣ios自动化测试实践和经验[链接](http://wenku.baidu.com/view/a513c2779b6648d7c1c746d3.html)
 
-*   芈君:豆瓣ios自动化测试实践和经验[链接  
 # Android
 
 # Java
