@@ -109,6 +109,7 @@
 *   lzwjava：单元测试与自动化[链接](http://reviewcode.cn/video.html?videoId=2)
 *   testly:iOS 性能专项初探[链接](https://testerhome.com/topics/2719)
 *   芈君:豆瓣ios自动化测试实践和经验[链接](http://wenku.baidu.com/view/a513c2779b6648d7c1c746d3.html)
+*   iOS 8 swift白胡子教程[连接](http://open.163.com/movie/2015/2/L/C/MAIKHN60A_MAIKILOLC.html)
 
 ***
 
