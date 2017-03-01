@@ -63,6 +63,7 @@
 
 *   [转] selenium webdriver 的工作原理[链接](https://testerhome.com/topics/6524)
 *   jsoup Cookbook(中文版)[链接](http://www.open-open.com/jsoup/)
+*   【自动化相关】xpath路径表达式笔记[阮一峰老师的博客](http://www.ruanyifeng.com/blog/2009/07/xpath_path_expressions.html)
 
 ***
 
