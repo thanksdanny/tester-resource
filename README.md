@@ -112,6 +112,7 @@
 *   芈君:豆瓣ios自动化测试实践和经验[链接](http://wenku.baidu.com/view/a513c2779b6648d7c1c746d3.html)
 *   iOS 8 swift白胡子教程[连接](http://open.163.com/movie/2015/2/L/C/MAIKHN60A_MAIKILOLC.html)
 
+
 ***
 
 # Android
@@ -148,6 +149,16 @@
 ***
 
 # 教学视频
+
+
+***
+
+# 安全
+*   iOS 10 的安全白皮书[链接]https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+
+***
+
+# 游戏测试
 
 
 ***
