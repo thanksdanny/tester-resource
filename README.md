@@ -77,6 +77,12 @@
 
 ***
 
+# 设计模式
+*   PageObjects wiki[wiki](https://github.com/SeleniumHQ/selenium/wiki/PageObjects)
+*   什么是Page Objects（PageObjects设计模式）[地址](http://blog.csdn.net/kittyboy0001/article/details/25219053)
+
+***
+
 # 接口测试
 *   Postman文档[官网](https://www.getpostman.com/docs/)
 *   接口测试 Postman 使用小结[链接](https://testerhome.com/topics/6695#reply3)
