@@ -133,6 +133,11 @@
 
 ***
 
+# Python
+* [Google的python代码规范](http://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/)
+
+***
+
 # 服务器端
 *   服务端技术选型[链接](http://xielong.me/2015/04/17/服务端技术选型/)
 
